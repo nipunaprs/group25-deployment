@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/group25-deployment/static/css/main.ecbd226e.css",
+    "main.js": "/group25-deployment/static/js/main.d5ed7ee3.js",
+    "index.html": "/group25-deployment/index.html",
+    "main.ecbd226e.css.map": "/group25-deployment/static/css/main.ecbd226e.css.map",
+    "main.d5ed7ee3.js.map": "/group25-deployment/static/js/main.d5ed7ee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbd226e.css",
+    "static/js/main.d5ed7ee3.js"
+  ]
+}
