@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/group25-deployment/static/css/main.ecbd226e.css",
-    "main.js": "/group25-deployment/static/js/main.b08b6dde.js",
+    "main.js": "/group25-deployment/static/js/main.ec369999.js",
     "index.html": "/group25-deployment/index.html",
     "main.ecbd226e.css.map": "/group25-deployment/static/css/main.ecbd226e.css.map",
-    "main.b08b6dde.js.map": "/group25-deployment/static/js/main.b08b6dde.js.map"
+    "main.ec369999.js.map": "/group25-deployment/static/js/main.ec369999.js.map"
   },
   "entrypoints": [
     "static/css/main.ecbd226e.css",
-    "static/js/main.b08b6dde.js"
+    "static/js/main.ec369999.js"
   ]
 }
